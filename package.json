@@ -4,8 +4,7 @@
   "description": "Bot WhatsApp dengan Button menggunakan atexovi-baileys",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js",
-    "build": "nodemon index.js"
+    "dev": "node index.js"
   },
   "keywords": [],
   "author": "",
